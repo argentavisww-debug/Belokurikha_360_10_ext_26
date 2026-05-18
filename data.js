@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-belokuriha_360",
-      "name": "Belokurikha_panorama_360",
+      "name": "pano_360_belokurikha",
       "levels": [
         {
           "tileSize": 256,
